@@ -1,0 +1,26 @@
+version: 2.1
+
+jobs:
+
+  hello-circleci:
+
+    machine:
+      image: ubuntu-2204:current
+
+    steps:
+
+      - checkout
+
+      - run:
+          name: Test CircleCI
+          command: |
+            echo "Hello from CircleCI"
+            echo "Our CI pipeline is working"
+
+
+workflows:
+
+  demo-workflow:
+
+    jobs:
+      - hello-circleci
