@@ -1,0 +1,63 @@
+<resources>
+
+    <string name="app_name">
+        MultiLanguageDemoGroup1
+    </string>
+
+    <string name="screen_title">
+        Izilungiselelo Zolimi
+    </string>
+
+    <string name="welcome_message">
+        Siyakwamukela kuhlelo lwethu lokusekela izilimi
+    </string>
+
+    <string name="description">
+        Khetha ulimi oluthandayo.
+    </string>
+
+    <string name="choose_language">
+        Khetha ulimi:
+    </string>
+
+
+    <!-- Button labels -->
+
+    <string name="english">
+        IsiNgisi
+    </string>
+
+    <string name="afrikaans">
+        IsiBhunu
+    </string>
+
+    <string name="zulu">
+        isiZulu
+    </string>
+
+
+    <!-- Which is the user's current language? -->
+
+    <string name="current_language">
+        Ulimi lwamanje
+    </string>
+
+
+    <!-- Loading/error messages -->
+
+    <string name="preparing_translation">
+        Kulungiselelwa ukuhumusha…
+    </string>
+
+    <string name="translation_failed">
+        Ukuhumusha okuzenzakalelayo kuhlulekile.
+    </string>
+
+
+    <!-- Return to the device/system language -->
+
+    <string name="use_system_language">
+        Sebenzisa ulimi lwedivayisi
+    </string>
+
+</resources>

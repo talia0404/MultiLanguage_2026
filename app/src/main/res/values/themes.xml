@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!--
+        Main application theme.
+
+        MainActivity extends AppCompatActivity, so the XML theme
+        must inherit from an AppCompat-compatible theme.
+    -->
+    <style
+        name="Theme.MultiLanguageDemoGroup1"
+        parent="Theme.AppCompat.DayNight.NoActionBar">
+
+        <!--
+            We are using Jetpack Compose for the actual screen UI,
+            so we do not need the traditional AppCompat ActionBar.
+        -->
+
+    </style>
+
+</resources>

@@ -1,0 +1,74 @@
+<resources>
+
+    <string name="app_name">
+        MultiLanguageDemoGroup1
+    </string>
+
+    <string name="screen_title">
+        Language Settings
+    </string>
+
+    <string name="welcome_message">
+        Welcome to our language support app
+    </string>
+
+    <string name="description">
+        Choose your preferred language.
+    </string>
+
+    <string name="choose_language">
+        Choose language:
+    </string>
+
+
+    <!-- Button labels -->
+
+    <string name="english">
+        English
+    </string>
+
+    <string name="afrikaans">
+        Afrikaans
+    </string>
+
+    <!--
+        Keep the RESOURCE NAME lowercase.
+
+        The text displayed to the user can still be isiZulu.
+
+        Kotlin will access this using:
+        R.string.zulu
+    -->
+    <string name="zulu">
+        isiZulu
+    </string>
+
+
+    <!-- Which is the user's current language? -->
+
+    <string name="current_language">
+        Current language
+    </string>
+
+
+    <!-- Loading/error messages -->
+
+    <string name="preparing_translation">
+        Preparing translation…
+    </string>
+
+    <string name="translation_failed">
+        Auto translation failed.
+    </string>
+
+
+    <!--
+        Allows the user to stop using a manually selected
+        application language and return to the device/system
+        language.
+    -->
+    <string name="use_system_language">
+        Use device language
+    </string>
+
+</resources>

@@ -1,0 +1,63 @@
+<resources>
+
+    <string name="app_name">
+        MultiLanguageDemoGroup1
+    </string>
+
+    <string name="screen_title">
+        Taalinstellings
+    </string>
+
+    <string name="welcome_message">
+        Welkom by ons taalondersteuningsprogram
+    </string>
+
+    <string name="description">
+        Kies jou voorkeurtaal.
+    </string>
+
+    <string name="choose_language">
+        Kies taal:
+    </string>
+
+
+    <!-- Button labels -->
+
+    <string name="english">
+        Engels
+    </string>
+
+    <string name="afrikaans">
+        Afrikaans
+    </string>
+
+    <string name="zulu">
+        isiZulu
+    </string>
+
+
+    <!-- Which is the user's current language? -->
+
+    <string name="current_language">
+        Huidige taal
+    </string>
+
+
+    <!-- Loading/error messages -->
+
+    <string name="preparing_translation">
+        Vertaling word voorberei…
+    </string>
+
+    <string name="translation_failed">
+        Outomatiese vertaling het misluk.
+    </string>
+
+
+    <!-- Return to the device/system language -->
+
+    <string name="use_system_language">
+        Gebruik toestel se taal
+    </string>
+
+</resources>
