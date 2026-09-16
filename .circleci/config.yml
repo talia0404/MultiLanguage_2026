@@ -9,8 +9,12 @@ jobs:
 
     steps:
 
+      # Download our repository.
       - checkout
 
+
+      # Run a simple command to prove that
+      # our CircleCI pipeline is working.
       - run:
           name: Test CircleCI
           command: |
